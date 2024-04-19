@@ -1,7 +1,3 @@
-# Resume Repository
-
-## Introduction
-
 Welcome! This repository hosts my professional resume and is powered by GitHub Pages. Here, you can find detailed information about my education, work experience, skills, and projects.
 
 ## Repository Structure
