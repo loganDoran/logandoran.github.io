@@ -37,12 +37,13 @@ Operating Systems
 
 ### EXPERIENCE
 
+**Software Engineer I**  
+Beckman Coulter Diagnostics | Chaska, MN | August 2024 - Present
+
 **Teaching Assistant - Professional Practices in Computer Science**  
 University of Manitoba | Winnipeg, MB | January 2024 - Present 
-- Managed group presentations and quizzes for 50 undergraduate Computer Science students, providing detailed feedback and suggestions for improvement.   
-- Ensured a conducive learning environment by overseeing student attendance, addressing grade concerns, and answering general inquiries.   
-- Assist in fostering a conducive learning environment.   
-
+- Managed group presentations and quizzes for 50 undergraduate Computer Science students, providing detailed feedback and suggestions for improvement.
+- Oversaw student attendance, addressed grade concerns, and answered general inquiries to maintain a conducive learning environment. 
 
 **Software Engineering Intern**  
 Beckman Coulter Diagnostics | Remote | June – August 2023  
@@ -56,9 +57,8 @@ Beckman Coulter Diagnostics | Remote | June – August 2023
 **Technology Intern**  
 Youth for Understanding - Estonia | Tallinn, Estonia | June – December 2022  
 - Streamlined data imports and exports on an internal database using SQL to improve efficiency and organization.   
-- Developed and implemented automated solutions for annual statistic calculations.   
-- Drove content management improvements resulting in increased efficiency and organization, demonstrating strong problem-solving abilities and attention to detail.    
-
+- Developed and implemented automated solutions for annual statistic calculations. 
+- Improved content management efficiency and organization, showcasing strong problem-solving abilities and attention to detail.
 
 **Pharmacy Technician**  
 CVS Pharmacy | Saint Paul, MN | April – August 2021  
@@ -77,17 +77,9 @@ CVS Pharmacy | Saint Paul, MN | April – August 2021
 - Utilized: Java, Android Studio, HSQLDB, GitLab, HTML/CSS.
 
 [**Canadian Grain Commission data visualization tool**](https://github.com/ishraqn/CGC-DataVizTool) | Team of 4  
-- Developed a web-based data visualization tool using React, Leaflet, and TypeScript.   
-- I implemented features such as data upload, color customization, and choropleth mapping.   
-- Led full-stack development efforts to enhance user experience and analytical capabilities.   
-- Utilized: TypeScript, React, Leaflet, GitHub, HTML/CSS, Hoppscotch.
+-	Automated a time-consuming task by creating a tool that generates maps from user-uploaded data, significantly improving efficiency.
+-	Implemented features such as data upload, color customization, and choropleth mapping using React, Leaflet, and TypeScript.
+-	Led full-stack development efforts, enhancing user experience and analytical capabilities.
+-	Utilized TypeScript, React, Leaflet, GitHub, HTML/CSS, and Hoppscotch to develop and deploy the project.
 
-
----
-
-### AFFILIATIONS AND INTERESTS
-
-- Woman in Computer Science \| Member \| University of Manitoba
-- Computer Science Student Association \| Member \| University of Manitoba
-- Youth for Understanding \| Volunteer \| Remote
 
